@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NewsReader_2474802016786</string>
+    <string name="news_reader_title">News Reader · Lab 15</string>
+    <string name="reload_posts">Reload posts</string>
+    <string name="parse_manually">Manual JSON parsing (off = Gson)</string>
+    <string name="ready_status">Ready</string>
+    <string name="loading_status">Loading posts…</string>
+    <string name="loaded_status">Loaded %1$d posts (%2$s)</string>
+    <string name="error_status">Unable to load posts. Check your connection and try Reload.</string>
+</resources>
